@@ -26,7 +26,7 @@ I am particularly interested in developing AI systems that are **efficient, secu
 
 This repository contains four main areas:
 
-### 📁 Assignments
+###  Assignments
 
 Selected course assignments and case studies:
 
@@ -68,7 +68,7 @@ Selected course assignments and case studies:
 
 ---
 
-## 📚 Key Learning Notes
+## Key Learning Notes
 
 The `Notes` folder contains summaries of important concepts covered during the course.
 
@@ -83,7 +83,7 @@ These notes focus on what the technologies do, how they are applied, their benef
 
 ---
 
-## 🛠️ Skills and Concepts
+##  Skills and Concepts
 
 ### Artificial Intelligence
 
@@ -125,7 +125,7 @@ These notes focus on what the technologies do, how they are applied, their benef
 
 ---
 
-## 🌎 Real-World AI Applications
+##  Real-World AI Applications
 
 The projects in this portfolio demonstrate how AI can be applied to real-world problems.
 
@@ -151,7 +151,7 @@ Emerging technologies such as AGI could potentially provide more flexible reason
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 One of the most important lessons from this course is that AI is not limited to one industry or one type of problem.
 
@@ -163,7 +163,7 @@ I also learned that different technologies can complement each other. For exampl
 
 ---
 
-## 🎯 Career Interests
+##  Career Interests
 
 My long-term career interests include:
 
@@ -181,7 +181,7 @@ My goal is to continue developing technical and problem-solving skills and event
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 ITAI-2372-AI-Applications-Portfolio
@@ -208,7 +208,7 @@ ITAI-2372-AI-Applications-Portfolio
 
 ---
 
-## 📫 Contact
+##  Contact
 
 **Thomas Jaymon**
 
